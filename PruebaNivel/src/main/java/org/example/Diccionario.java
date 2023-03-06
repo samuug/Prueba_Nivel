@@ -71,8 +71,4 @@ public class Diccionario {
         diccionario.imprimirTablaHash();
     }
 
-    public static void main(String[] args) {
-        Diccionario diccionario = new Diccionario();
-        menu(diccionario);
-    }
 }
